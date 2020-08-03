@@ -1,4 +1,4 @@
-# sAE-chem
+# sAE-chem (Pytorch)
 
 Training mode (train.sh):
 
